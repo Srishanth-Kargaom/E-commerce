@@ -1,0 +1,30 @@
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+h4{
+    text-align: justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.item img{
+    height: 10rem;
+}
+.item{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.card{
+    
+    margin:15px;
+
+}
